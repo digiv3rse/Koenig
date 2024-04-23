@@ -100,7 +100,7 @@
     "eslint-config-react-app": "7.0.1",
     "eslint-plugin-jest": "27.6.3",
     "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-storybook": "^0.6.12",
+    "eslint-plugin-storybook": "^0.8.0",
     "eslint-plugin-tailwindcss": "3.14.0",
     "eventemitter3": "^5.0.0",
     "fast-average-color": "^9.3.0",
